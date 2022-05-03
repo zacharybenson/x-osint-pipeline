@@ -16,8 +16,8 @@ from urllib.parse import quote
 #Connection to the database
 conn = psycopg2.connect(
    database="postgres",
-    user='zacharybenson',
-    password='1qaz@WSX3edc',
+    user='',
+    password='',
     host='localhost',
     port= '5432'
 )
@@ -25,7 +25,7 @@ conn = psycopg2.connect(
 def execute_values(df):
     df = df[['id','created_at','text']]
          # Create the engine to connect to the PostgreSQL database
-    engine = sqlalchemy.create_engine('postgresql://zacharybenson:%s@localhost:5432/postgres' % quote('1qaz@WSX3edc'))
+    engine = sqlalchemy.create_engine('postgresql://'USERNAME':%s@localhost:5432/postgres' % quote('PASSWORD HERE'))
     
     df.to_sql('tweets',engine,if_exists='append')
 
