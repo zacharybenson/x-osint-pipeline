@@ -15,7 +15,7 @@ presented here, is to collect open source images of maritime vessels in an effor
 to verify the position of vessels based on an image being capture while they are <br>
 close to shore. <br>
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/zacharybenson/TWITTER_PIPELINE/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -53,8 +53,6 @@ close to shore. <br>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
