@@ -1,12 +1,9 @@
 <div id="top"></div>
-x
+
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-    :hatching_chick:
 
 
-<h3 align="center">Twitter Open Source Intelligence</h3>
+<h3 align="center">𝕏 Open Source Intelligence</h3>
 
   <p align="center">
 The purpose of this project is to create a data pipeline for intel analyst, looking <br>
